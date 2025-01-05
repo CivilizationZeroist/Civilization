@@ -1,4 +1,2 @@
-# Templater
-> The neo-phase lightweight Mod Dev Template for 1.12.2
-
-Re-write by TemplateDevEnv and YemplateDevEnv.
+# Civilization
+[Civilized](https://github.com/Oganesson897/Civilized) Modpack Core Mod
