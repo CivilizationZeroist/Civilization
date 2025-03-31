@@ -30,5 +30,8 @@ dependencies {
     implementation rfg.deobf('gregtech:gregtech:2.8.10-beta')
     implementation rfg.deobf('gregicality:GregicalityMultiblocks:1.2.11')
 
-    compileOnly rfg.deobf('curse.maven:biomes-o-plenty-220318:2842510')
+    implementation rfg.deobf('curse.maven:biomes-o-plenty-220318:2842510')
+
+    implementation rfg.deobf("curse.maven:tinkers-construct-74072:2902483")
+    implementation rfg.deobf("curse.maven:mantle-74924:2713386")
 }

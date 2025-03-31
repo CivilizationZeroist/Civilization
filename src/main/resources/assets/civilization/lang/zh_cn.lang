@@ -1,0 +1,11 @@
+metaitem.matured_clay.name=熟粘土
+metaitem.structure.tool.name=结构工具
+
+metaitem.cast.small_gear.name=小型齿轮铸模
+metaitem.cast.rotor.name=转子铸模
+
+metaitem.debug.structure_writer.export_to_log=导出为日志
+metaitem.debug.structure_writer.export_to_json=导出为Json
+metaitem.debug.structure_writer.rotate_along_y_axis=沿Y轴旋转
+metaitem.debug.structure_writer.ex=无
+metaitem.debug.structure_writer.structural_scale=结构规模：X-%s  Y-%s  Z-%s

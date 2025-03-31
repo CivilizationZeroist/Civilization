@@ -1,0 +1,11 @@
+{
+  "package": "me.oganesson.civilization.mixin.late",
+  "required": true,
+  "refmap": "mixins.cz.refmap.json",
+  "target": "@env(DEFAULT)",
+  "minVersion": "0.8.5",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [],
+  "server": [],
+  "client": []
+}

@@ -1,0 +1,11 @@
+metaitem.matured_clay.name=Matured Clay
+metaitem.structure.tool.name=Structure Tool
+
+metaitem.cast.small_gear.name=Small Gear Cast
+metaitem.cast.rotor.name=Rotor Cast
+
+metaitem.debug.structure_writer.export_to_log=Export to log
+metaitem.debug.structure_writer.export_to_json=Export to json
+metaitem.debug.structure_writer.rotate_along_y_axis=Rotate along Y axis
+metaitem.debug.structure_writer.ex=none
+metaitem.debug.structure_writer.structural_scale=Structural Scale: X-%s  Y-%s  Z-%s
